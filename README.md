@@ -1,62 +1,67 @@
 # Shuning Liu | 刘书宁
 
-**Sports Science · Exercise Nutrition · Evidence Synthesis · AI for Health**
+**Sports Science x Evidence Synthesis x AI-Enabled Health Tools**
 
-I am an undergraduate researcher at the School of Sport Human Science, Beijing Sport University. My work sits at the intersection of sports science, exercise nutrition, recovery, digital health, and AI-assisted evidence synthesis.
+I am building research systems at the intersection of sports science, evidence synthesis, and AI-enabled health tools.
 
-I am especially interested in how nutrition, training, behavioral support, and intelligent tools can improve health, performance, recovery, and long-term adherence.
+My work connects four layers: sport and health questions, evidence-audit methods, AI-assisted tooling, and applied intervention prototypes. The goal is not only to publish outputs, but to make research workflows clearer, more reusable, and easier to translate into practice.
 
 [Personal Website](https://brillernet-droid.github.io/shuning-liu-personal-website/) · [ORCID](https://orcid.org/0009-0000-5283-3715) · [ResearchGate](https://www.researchgate.net/profile/Shuning-Liu-7)
 
-## Research Focus
+## Research Systems
 
-- Exercise nutrition, supplementation, recovery, and sport performance
-- Systematic review, meta-analysis, network meta-analysis, and dose-response evidence
-- AI-enabled health intervention, behavior change, and digital health prototypes
-- Sports medicine, rehabilitation technology, and exercise-health translation
-- Academic writing tools and reproducible research workflows
+### 1. Sports Science Questions
+
+I start from applied problems in exercise nutrition, fatigue, recovery, performance maintenance, physical activity, and long-term health behavior.
+
+### 2. Evidence Synthesis Methods
+
+I use systematic review, meta-analysis, network meta-analysis, dose-response thinking, and evidence-audit workflows to decide whether a research question is feasible, differentiated, and worth pursuing.
+
+### 3. AI-Assisted Research Tools
+
+I build lightweight tools and Codex skills that help with topic selection, protocol design, academic writing, evidence organization, and repeatable research workflows.
+
+### 4. Health Intervention Translation
+
+I explore digital health prototypes and behavior-support interfaces that connect research evidence with practical user needs.
+
+## Featured Work
+
+### Evidence Synthesis Toolkit
+
+[meta-analysis-protocol-builder](https://github.com/brillernet-droid/meta-analysis-protocol-builder)  
+An evidence-first workflow for systematic-review and meta-analysis planning. It audits existing reviews, protocols, and primary-study signals before recommending a topic or drafting a protocol.
+
+### Academic Portfolio
+
+[shuning-liu-personal-website](https://github.com/brillernet-droid/shuning-liu-personal-website)  
+A public academic portfolio connecting publications, ORCID, ResearchGate, awards, leadership, and research systems.
+
+### AI Writing And Research Voice
+
+[briller-de-ai-writing](https://github.com/brillernet-droid/briller-de-ai-writing)  
+A personal Codex skill for reducing AI-like wording and restoring a more natural academic and professional voice.
+
+### AI For Health Prototype
+
+[livanudge-menopause-mpvp](https://github.com/brillernet-droid/livanudge-menopause-mpvp)  
+A digital health MPVP exploring lifestyle support, health behavior, and user-centered intervention design.
 
 ## Selected Profile
 
-- Beijing Sport University, School of Sport Human Science
-- 27 academic papers, including 18 journal articles
-- 11 co-authored SCI papers with cumulative SCI impact factor above 62
-- First-author work across exercise recovery, football nutrition, and musculoskeletal burden research
-- Innovation project lead for adaptive muscle-interaction rehabilitation technology
-
-## Featured Projects
-
-### Personal Academic Website
-
-A public academic portfolio connecting my research profile, publications, awards, leadership experience, ORCID, ResearchGate, and GitHub.
-
-Repository: [shuning-liu-personal-website](https://github.com/brillernet-droid/shuning-liu-personal-website)  
-Website: [brillernet-droid.github.io/shuning-liu-personal-website](https://brillernet-droid.github.io/shuning-liu-personal-website/)
-
-### LivaNudge Menopause MPVP
-
-A digital health prototype for a Hong Kong pilot, exploring lifestyle support, health behavior, and user-centered intervention design.
-
-Repository: [livanudge-menopause-mpvp](https://github.com/brillernet-droid/livanudge-menopause-mpvp)
-
-### BRILLER de AI Writing
-
-A personal Codex skill for reducing AI-like wording and restoring more natural academic and professional writing voice.
-
-Repository: [briller-de-ai-writing](https://github.com/brillernet-droid/briller-de-ai-writing)
-
-## Representative Publications
-
-- Nutritional supplements, endurance performance, and subjective perception in athletes exercising in the heat
-- Repeated sprint training and aerobic/anaerobic power in college-age rugby players
-- Rhodiola rosea supplementation, perceived fatigue, and basketball performance
-- Nutritional supplements and explosive lower-limb performance in volleyball players
-- Astaxanthin supplementation, exercise recovery biomarkers, and exercise performance
-- Football nutrition strategies under hot environmental conditions
-
-More details are available on my [personal website](https://brillernet-droid.github.io/shuning-liu-personal-website/).
+- Beijing Sport University, School of Sport Human Science.
+- Research interests: exercise nutrition, sports science, evidence synthesis, AI-enabled health tools, and digital health intervention.
+- 27 academic papers, including 18 journal articles and 11 co-authored SCI papers.
+- First-author work across exercise recovery, football nutrition, and musculoskeletal burden research.
+- Innovation project lead for adaptive muscle-interaction rehabilitation technology.
 
 ## Current Direction
 
-I am building a research portfolio around sports science, exercise nutrition, AI-assisted evidence synthesis, and digital health tools. My GitHub will gradually host reproducible workflows, study materials, prototype interfaces, and research utilities connected to this direction.
+I am gradually turning research experience into a visible, reusable system:
 
+- **Research Notes**: short notes on sports science, AI health, evidence synthesis, and research design.
+- **Tool Updates**: templates, example data, README improvements, and reproducible workflows.
+- **Portfolio Links**: public repositories, academic profiles, and selected project pages connected through one narrative.
+
+> I am building an open research portfolio around sports science, evidence synthesis, and AI-enabled health tools.
