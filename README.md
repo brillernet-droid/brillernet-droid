@@ -1,1 +1,18 @@
-# AI Projects & Research Systems\n\nA focused collection of AI-assisted research tools and health-oriented prototypes.\n\n## Publicly Available Projects\n\n- [ATHENA Interactive MVP](https://github.com/brillernet-droid/athena-interactive-mvp) — Local Node.js MVP for low-burden health decision support, safety guardrails, and research logging.\n- [SportRx](https://github.com/brillernet-droid/SportRx) — Measurement-first exercise decision-support prototype with a reproducible local smoke check and app entry point.\n- [Meta-analysis Protocol Builder](https://github.com/brillernet-droid/meta-analysis-protocol-builder) — Codex skill for evidence-first systematic-review and meta-analysis topic auditing.\n- [PDF Finder](https://github.com/brillernet-droid/pdf-finder) — Dependency-free Python tool for indexing and downloading publicly accessible research PDFs.\n\n## Project Themes\n\n- AI-assisted research workflows and evidence synthesis\n- Reproducible local tools with explicit run and test paths\n- Safety-aware digital health and exercise prototypes\n\nProjects without a currently verified runtime or demo path remain private until their release checks are complete.\n
+# AI Projects & Research Systems
+
+A focused collection of AI-assisted research tools and health-oriented prototypes.
+
+## Publicly Available Projects
+
+- [ATHENA Interactive MVP](https://github.com/brillernet-droid/athena-interactive-mvp) — Local Node.js MVP for low-burden health decision support, safety guardrails, and research logging.
+- [SportRx](https://github.com/brillernet-droid/SportRx) — Measurement-first exercise decision-support prototype with a reproducible local smoke check and app entry point.
+- [Meta-analysis Protocol Builder](https://github.com/brillernet-droid/meta-analysis-protocol-builder) — Codex skill for evidence-first systematic-review and meta-analysis topic auditing.
+- [PDF Finder](https://github.com/brillernet-droid/pdf-finder) — Dependency-free Python tool for indexing and downloading publicly accessible research PDFs.
+
+## Project Themes
+
+- AI-assisted research workflows and evidence synthesis
+- Reproducible local tools with explicit run and test paths
+- Safety-aware digital health and exercise prototypes
+
+Projects without a currently verified runtime or demo path remain private until their release checks are complete.
