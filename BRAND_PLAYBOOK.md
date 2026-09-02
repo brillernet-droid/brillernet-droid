@@ -20,7 +20,7 @@ Shuning Liu is building research systems at the intersection of sports science, 
 
 我现在想做的，不只是发表论文，而是把运动科学、循证医学和 AI 工具连接成一套可以复用的研究系统。
 
-Personal website: https://brillernet-droid.github.io/shuning-liu-personal-website/
+Academic website: https://brillernet-droid.github.io/shuning-liu-personal-website/
 
 GitHub: https://github.com/brillernet-droid
 
@@ -38,7 +38,7 @@ I am Shuning Liu, an undergraduate researcher at Beijing Sport University. My cu
 
 Beyond participating in journal articles and evidence-synthesis projects, I am also building a public research portfolio that organizes my academic profile, reproducible workflows, and digital health prototypes. My aim is to turn research experience into a more transparent and reusable system, especially for questions related to exercise performance, recovery, health behavior, and AI-assisted research practice.
 
-Personal website: https://brillernet-droid.github.io/shuning-liu-personal-website/
+Academic website: https://brillernet-droid.github.io/shuning-liu-personal-website/
 
 GitHub: https://github.com/brillernet-droid
 
